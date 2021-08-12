@@ -1,9 +1,13 @@
 ## Hey there, I'm Kira 👋
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://kirafaye99.github.io/Updated-Portfolio/)
+<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://kirafaye99.github.io/Updated-Portfolio/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kira-demarco-42073720a/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kirademarco/)
-
+ -->
+ 
+ <a href="https://kirafaye99.github.io/Updated-Portfolio/" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
+</a>
 
 
 ## Glad you're here!!    ![visitors](https://visitor-badge.glitch.me/badge?page_id=$kirafaye99.$kirafaye99)
