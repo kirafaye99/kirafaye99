@@ -1,4 +1,4 @@
-## Hi there, I'm Kira 👋
+## Hey there, I'm Kira 👋
 
 ### Glad you're here!!    ![visitors](https://visitor-badge.glitch.me/badge?page_id=$kirafaye99.$kirafaye99)
 
