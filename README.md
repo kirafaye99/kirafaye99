@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Kira 👋
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=$kirafaye99.$kirafaye99)
 
 <!--
 **kirafaye99/kirafaye99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,3 +26,5 @@ I am a student currently enrolled in the UCSD Full-Stack coding bootcamp. I also
 
 #### Currently Learning
 - Express.js
+
+
