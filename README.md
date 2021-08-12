@@ -1,5 +1,7 @@
 ## Hey there, I'm Kira 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kira-demarco-42073720a/)
+
 ### Glad you're here!!    ![visitors](https://visitor-badge.glitch.me/badge?page_id=$kirafaye99.$kirafaye99)
 
 <!--
