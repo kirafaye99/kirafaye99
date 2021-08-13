@@ -38,9 +38,14 @@ Here are some ideas to get you started:
 I am a student currently enrolled in the UCSD Full-Stack coding bootcamp. I also attend California State University San Marcos and am majoring in Computer Science. I expect to graduate in Fall 2023. I am currently working on projects using HTML, CSS, and JavaScript coding languages and am eager to learn more.
 
 ### Skills
-- HTML
-- CSS
+- HTML 5
+- CSS 3
 - JavaScript
+- jQuery
+- Bootstrap
+- Tailwind
+- Web APIs
+- Node.js
 
 #### Currently Learning
 - Express.js
