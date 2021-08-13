@@ -42,8 +42,7 @@ I am a student currently enrolled in the UCSD Full-Stack coding bootcamp. I also
 - CSS 3
 - JavaScript
 - jQuery
-- Bootstrap
-- Tailwind
+- CSS Frameworks (Bootstrap, Tailwind)
 - Web APIs
 - Node.js
 
