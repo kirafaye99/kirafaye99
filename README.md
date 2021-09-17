@@ -18,7 +18,7 @@
 
 
 
-## Glad you're here!!    ![visitors](https://visitor-badge.glitch.me/badge?page_id=$kirafaye99.$kirafaye99)
+## Glad you're here!!
 
 <!--
 **kirafaye99/kirafaye99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
